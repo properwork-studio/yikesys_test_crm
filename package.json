@@ -1,0 +1,23 @@
+{
+  "name": "yikesys_test_crm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/properwork-studio/yikesys_test_crm.git"
+  },
+  "author": "laurenc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/properwork-studio/yikesys_test_crm/issues"
+  },
+  "homepage": "https://github.com/properwork-studio/yikesys_test_crm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^4.12.0"
+  }
+}
