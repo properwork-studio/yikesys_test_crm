@@ -1,0 +1,22 @@
+*, p {
+  font-family: 'Roboto', sans-serif; }
+
+.landing__container {
+  background-image: linear-gradient(to right, #2998ff, #5643fa);
+  width: 100vw;
+  height: 100vh;
+  padding: 5rem;
+  display: flex;
+  justify-content: center; }
+
+.landing__form {
+  width: 700px;
+  margin: auto;
+  background-color: white;
+  padding: 4rem;
+  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  transition: all .2s; }
+  .landing__form:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.1); }
