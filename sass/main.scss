@@ -31,3 +31,17 @@ $color-primary-dark: #5643fa;
     }
   }
 }
+
+.list{
+  &__search {
+    width: 300px;
+  }
+
+  &__container {
+    max-width: 90vw;;
+  }
+}
+
+.footer {
+  box-shadow: 0 -5px 10px rgba(0,0,0,.05);
+}
